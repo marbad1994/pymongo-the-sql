@@ -5,6 +5,8 @@ authors = ["Marcus Bader <marcus@appsight.se>"]
 description = "A sql wrapper made to mimic the pymongo syntax in order to simplify sql syntax."
 license = "MIT"
 readme = "README.rst"
+homepage = "https://appsight.se"
+repository = "https://github.com/marbad1994/pymongo-the-sql"
 
 [tool.poetry.dependencies]
 python = '^3.6'
