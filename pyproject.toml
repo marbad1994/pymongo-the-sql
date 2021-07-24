@@ -3,6 +3,8 @@ name = "pymongo-the-sql"
 version = "0.0.1"
 authors = ["Marcus Bader <marcus@appsight.se>"]
 description = "A sql wrapper made to mimic the pymongo syntax in order to simplify sql syntax."
+license = "MIT"
+readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = '^3.6'
